@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ril Control</string>
+    <string name="action_about">About</string>
+    <string name="action_aboutApp">This app uses root permission to stop and start the ril-daemon.
+        \n \n
+    This app is licensed under the Apache 2.0 license.</string>
+</resources>
